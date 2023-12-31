@@ -6,8 +6,8 @@ A Node.js Back-End Developer
 
 # 💫 About Me:
 - 🧑 17 y.o
-- 🖥️ Currently working on learn sokets...
-- 🐱 Trying to make Own messanger
+- 🖥️ Currently learning sokets...
+- 🐱 Trying to make Own mini-messanger
 
 
 # 💻 Tech Stack:
