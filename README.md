@@ -7,7 +7,7 @@ A Node.js Back-End Developer
 # 💫 About Me:
 - 🧑 17 y.o
 - 🖥️ Currently learning something interesting...
-- 🐱 Trying to make crm 
+- 🐱 Trying to make a normal project with grapql 
 
 
 # 💻 Tech Stack:
