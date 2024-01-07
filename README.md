@@ -16,4 +16,4 @@ A Node.js Back-End Developer
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AsetCoder&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AsetCoder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
